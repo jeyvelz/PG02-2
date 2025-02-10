@@ -44,19 +44,16 @@
     <ClCompile Include="Player.cpp">
       <Filter>KamataEngine</Filter>
     </ClCompile>
-    <ClCompile Include="PlayScene.cpp">
-      <Filter>KamataEngine</Filter>
-    </ClCompile>
     <ClCompile Include="SceneManager.cpp">
       <Filter>KamataEngine</Filter>
     </ClCompile>
     <ClCompile Include="Enemy.cpp">
       <Filter>KamataEngine</Filter>
     </ClCompile>
-    <ClCompile Include="Collision.cpp">
+    <ClCompile Include="GameOver.cpp">
       <Filter>KamataEngine</Filter>
     </ClCompile>
-    <ClCompile Include="GameOver.cpp">
+    <ClCompile Include="PlayScene.cpp">
       <Filter>KamataEngine</Filter>
     </ClCompile>
   </ItemGroup>
@@ -137,7 +134,6 @@
     <ClInclude Include="PlayScene.h" />
     <ClInclude Include="SceneManager.h" />
     <ClInclude Include="Enemy.h" />
-    <ClInclude Include="Collision.h" />
     <ClInclude Include="GameOver.h" />
   </ItemGroup>
 </Project>
