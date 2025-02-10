@@ -51,6 +51,7 @@ void PlayScene::ResetPlayScene() {
 	fadeTimer_ = 0;
 	score_ = 0;
 	isGameLoad_ = false;
+	enemy_->isSpawn_ = false;
 }
 
 
